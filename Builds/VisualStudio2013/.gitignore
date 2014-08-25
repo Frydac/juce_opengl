@@ -1,0 +1,7 @@
+*
+
+!juce_opengl.sln
+!juce_opengl.vcxproj
+!juce_opengl.vcxproj.filters
+!resources.rc
+!.gitignore

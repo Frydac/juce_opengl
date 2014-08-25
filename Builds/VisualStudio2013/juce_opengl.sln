@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{5015DCED-56EB-E177-388C-0BE0C14492F9}") = "juce_opengl", "juce_opengl.vcxproj", "{8758B3F5-73CC-D3AD-9FC8-FEA7CD1EC982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8758B3F5-73CC-D3AD-9FC8-FEA7CD1EC982}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8758B3F5-73CC-D3AD-9FC8-FEA7CD1EC982}.Debug|Win32.Build.0 = Debug|Win32
+		{8758B3F5-73CC-D3AD-9FC8-FEA7CD1EC982}.Release|Win32.ActiveCfg = Release|Win32
+		{8758B3F5-73CC-D3AD-9FC8-FEA7CD1EC982}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
